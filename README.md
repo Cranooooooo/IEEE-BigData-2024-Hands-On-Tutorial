@@ -1,4 +1,5 @@
 # An Introduction to Cryptocurrency Analysis with Case Studies on Fraud Detection and Monitoring
+Cryptocurrencies are a vital part of Web3, serving as digital payments and programmable tokens in digital economic systems. However, the industry is chaotic and has been criticized for facilitating cybercrime due to its anonymity. This tutorial introduces tools to detect and prevent fraud in cryptocurrency and build a real-time monitoring system. Understanding and using cryptocurrency safely is crucial, and this tutorial aims to provide transparency and confidence to data scientists and the general public.
 
 ## Presenters
 **Feida Zhu** is currently a tenured associate professor at Singapore Management University. His research interests include large-scale data mining and machine learning, blockchain and data asset, text mining, graph/network mining and social network analysis. Prof. ZHU has over 100 peer-reviewed research publications at top international venues, including ICDE, VLDB, SIGMOD, KDD, WWW, JMLR, TODS, TKDE, etc. Prof. ZHU obtained his Ph.D. in Computer Science from UIUC in 2009.
