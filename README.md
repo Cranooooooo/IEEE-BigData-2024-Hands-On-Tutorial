@@ -1,5 +1,14 @@
 # An Introduction to Cryptocurrency Analysis with Case Studies on Fraud Detection and Monitoring
 
+## Presenters
+**Feida Zhu** is currently a tenured associate professor at Singapore Management University. His research interests include large-scale data mining and machine learning, blockchain and data asset, text mining, graph/network mining and social network analysis. Prof. ZHU has over 100 peer-reviewed research publications at top international venues, including ICDE, VLDB, SIGMOD, KDD, WWW, JMLR, TODS, TKDE, etc. Prof. ZHU obtained his Ph.D. in Computer Science from UIUC in 2009.
+
+**Yong Wang** is an assistant professor at Singapore Management University. His major research interests include Data Visualization, Visual Analytics, Human-computer Interaction and Explainable Artificial Intelligence. His research has been applied in various domains and covered by many medias, including NHK TV, IEEE Spectrum and ACM SIGGRAPH blog. Prof. WANG received his Ph.D. degree in Computer Science from HKUST. 
+
+**Ling Cheng** is currently a Ph.D. student at Singapore Management University. His research interests are designing multi-grained malice detection models for cryptocurrency environments.
+
+**Xiaolin Wen** is a graduate student at Sichuan University. His research interests include Human-Computer Interaction and Data Visualization.
+
 ## 1. Introduction
 ```
 .
