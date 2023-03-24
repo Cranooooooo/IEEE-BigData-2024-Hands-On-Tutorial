@@ -6,6 +6,8 @@ Cryptocurrencies are a vital part of Web3, serving as digital payments and progr
 
 **Yong Wang** is an assistant professor at Singapore Management University. His major research interests include Data Visualization, Visual Analytics, Human-computer Interaction and Explainable Artificial Intelligence. His research has been applied in various domains and covered by many medias, including NHK TV, IEEE Spectrum and ACM SIGGRAPH blog. Prof. WANG received his Ph.D. degree in Computer Science from HKUST. 
 
+**Shitian Yang** is Partner and CTO of SlowMist Technology; Director of Tsinghua University G3 Blockchain Laboratory; Whitehat Blue, Internet serial entrepreneur, cyber security enthusiast, technical architect.
+
 **Ling Cheng** is currently a Ph.D. student at Singapore Management University. His research interests are designing multi-grained malice detection models for cryptocurrency environments.
 
 **Xiaolin Wen** is a graduate student at Sichuan University. His research interests include Human-Computer Interaction and Data Visualization.
