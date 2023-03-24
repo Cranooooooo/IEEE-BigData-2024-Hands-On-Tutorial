@@ -51,5 +51,6 @@ Cryptocurrencies are a vital part of Web3, serving as digital payments and progr
 ```
 .
 ├── 5.1  --> Smart-Contract and NFTs
-└── 5.2  --> ETH Ponzi Schemes and NFT Wash Trade
+├── 5.2  --> PonziLens: ETH Ponzi Scheme Detection
+└── 5.3  --> NFTDisk: NFT Wash Trade Detection
 ```
