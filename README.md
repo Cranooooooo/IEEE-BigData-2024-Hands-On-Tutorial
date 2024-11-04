@@ -1,7 +1,7 @@
 
 # Information and Knowledge Discovery on Cryptocurrency: A Security Perspective
 
-**IEEE BigData 2024 | Barcelona, Spain | Sunday, December 15, PM**
+**IEEE BigData 2024 | Washington DC, USA | Sunday, December 15, PM**
 
 ---
 
