@@ -1,56 +1,75 @@
-# An Introduction to Cryptocurrency Analysis with Case Studies on Fraud Detection and Monitoring
-Cryptocurrencies are a vital part of Web3, serving as digital payments and programmable tokens in digital economic systems. However, the industry is chaotic and has been criticized for facilitating cybercrime due to its anonymity. This tutorial introduces tools to detect and prevent fraud in cryptocurrency and build a real-time monitoring system. Understanding and using cryptocurrency safely is crucial, and this tutorial aims to provide transparency and confidence to data scientists and the general public.
 
-## Presenters
-**Feida Zhu** is currently a tenured associate professor at Singapore Management University. His research interests include large-scale data mining and machine learning, blockchain and data asset, text mining, graph/network mining and social network analysis. Prof. ZHU has over 100 peer-reviewed research publications at top international venues, including ICDE, VLDB, SIGMOD, KDD, WWW, JMLR, TODS, TKDE, etc. Prof. ZHU obtained his Ph.D. in Computer Science from UIUC in 2009.
+# Information and Knowledge Discovery on Cryptocurrency: A Security Perspective
 
-**Yong Wang** is an assistant professor at Singapore Management University. His major research interests include Data Visualization, Visual Analytics, Human-computer Interaction and Explainable Artificial Intelligence. His research has been applied in various domains and covered by many medias, including NHK TV, IEEE Spectrum and ACM SIGGRAPH blog. Prof. WANG received his Ph.D. degree in Computer Science from HKUST. 
+**IEEE BigData 2024 | Barcelona, Spain | Sunday, December 15, PM**
 
-**Shitian Yang** is Partner and CTO of SlowMist Technology; Director of Tsinghua University G3 Blockchain Laboratory; Whitehat Blue, Internet serial entrepreneur, cyber security enthusiast, technical architect.
+---
 
-**Ling Cheng** is currently a Ph.D. student at Singapore Management University. His research interests are designing multi-grained malice detection models for cryptocurrency environments.
+## Motivation
 
-**Xiaolin Wen** is a graduate student at Sichuan University. His research interests include Human-Computer Interaction and Data Visualization.
+Cryptocurrencies are a central part of Web3, enabling digital payments and programmable tokens for various roles in economic systems. However, the industry's lack of regulation and anonymity have led to concerns about cybercrime. Detecting and preventing fraudulent behaviors and malicious activities has become crucial. This tutorial aims to provide participants with practical knowledge in cryptocurrency data processing and network-building to enhance security and mitigate risks.
 
-## 1. Introduction
+## Objectives
+
+In this hands-on tutorial, participants will:
+
+- Learn about cryptocurrency transaction and address profiling.
+- Explore feature extraction for cryptocurrency transactions, focusing on attributes like address activity, transaction network characteristics, and asset transfer paths.
+- Develop skills to detect fraudulent or malicious behaviors in cryptocurrency networks using case-based and intention discovery techniques.
+
+The tutorial covers real-time monitoring and anomaly detection in cryptocurrency systems, offering hands-on exercises for academic researchers, industry practitioners, and data science enthusiasts.
+
+## Tutorial Outline
+
+### 1. Introduction
+   - Overview of cryptocurrency addresses, transactions, and asset decentralization.
+   - Tools and techniques for querying cryptocurrency data.
+
+### 2. Feature Engineering
+   - Cryptocurrency address profiling.
+   - Network-based features, including transaction volume, centrality, and clustering.
+   - Asset transfer path analysis to detect suspicious behavior.
+
+### 3. Case-Based Analysis
+   - Feature extraction for malicious behaviors.
+   - Techniques for early detection of fraud.
+   - Case study on Evolving Path Tracer for user-provided addresses.
+
+### 4. Intention Discovery for Malice Detection
+   - Profiling addresses’ intentions.
+   - Status and action extraction for enhanced detection.
+   - Case study on Binance Hack with intention discovery.
+
+## Prerequisites
+
+No prior knowledge of cryptocurrency is needed. This tutorial is accessible to a diverse audience, including:
+
+- Researchers in data mining and fraud detection.
+- Industry and government practitioners.
+- Data science enthusiasts interested in cryptocurrency.
+
+## Dataset
+
+The tutorial provides a diverse dataset with real-world cryptocurrency transactions and fraud cases. This includes various types of fraud such as hacks, ransomware, and Ponzi schemes.
+
+## Running the Exercises
+
+Access each notebook through the GitHub repository and open them in Google Colaboratory. Ensure necessary dependencies are installed to run the exercises.
+
+---
+
+### Authors
+
+- Feida Zhu, Associate Professor, SMU, Singapore.
+- Ling Cheng, Ph.D. student, SMU, Singapore.
+
+---
+
+**Note**: The exercises are designed for educational purposes and may not be optimized for production use.
+
+---
+
+## License
 ```
-.
-├── 1.1  --> Cryptocurrency Address Transactions
-├── 1.2  --> Use DAG-Crypto for querying cryptocurrency transactions
-└── 1.3  --> Case Study: BTC Decentralization Profile from Asset Distribution
-```
-
-## 2. Feature Engineering
-```
-.
-├── 2.1  --> Cryptocurrency Address Feature Profiling
-├── 2.2  --> Cryptocurrency Address Transaction Network Profiling
-├── 2.3  --> Asset Transfer Path Profiling
-└── 2.4  --> Asset Transfer Path Network
-```
-
-## 3. Case-Based Analysis
-```
-.
-├── 3.1  --> Feature Extraction for Malicious behavior
-├── 3.2  --> Early Malice Detection
-└── 3.3  --> Case Study on Evolving Path Tracer with User-Provided Addresse
-```
-
-
-## 4. Intention Discovery for Malice Detection
-```
-.
-├── 4.1  --> Address Intention Profiling
-├── 4.2  --> Status and Action Extraction
-└── 4.3  --> Case Study on Binance Hack with Intention Discovery
-```
-
-
-## 5. Visualization Analysis
-```
-.
-├── 5.1  --> Smart-Contract and NFTs
-├── 5.2  --> PonziLens: ETH Ponzi Scheme Detection
-└── 5.3  --> NFTDisk: NFT Wash Trade Detection
+# Licensed under the Apache License, Version 2.0.
 ```
