@@ -2,8 +2,10 @@
 
 **IEEE BigData 2024 | Washington DC, USA | Sunday, December 15, PM**
 
+**CHENG Ling: lingcheng.2020@phdcs.smu.edu.sg**
+
 ---
-## Cloba Link
+## Colab Link
 
 Tutorial Part 1: https://colab.research.google.com/drive/1bbCNx-wqULOfndd0B9uUrH_fs0n9Z83G#scrollTo=eKtfLhYS6q3D
 
